@@ -39,7 +39,6 @@ Used to retrieve data from the server.
   Retrieve all incomplete tasks.  
   **Response**: List of incomplete tasks.
 
----
 
 ### **POST**
 
