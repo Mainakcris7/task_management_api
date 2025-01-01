@@ -39,7 +39,6 @@ Used to retrieve data from the server.
   Retrieve all incomplete tasks.  
   **Response**: List of incomplete tasks.
 
----
 
 ### **POST**
 
@@ -123,5 +122,5 @@ Used to delete resources on the server.
 5. Use tools like Postman or curl to test the API endpoints.
 ---
 ## Contact
-For any further queries, feel free to reach out to me via 📩 [email](mainakcr72002@gmail.com).
+For any further queries, feel free to reach out to me via 📩 email at mainakcr72002@gmail.com.
 
